@@ -1,7 +1,7 @@
 # human-like-bias
 
 # Generalization
-| **Paper**                                                    | **Venue** | **Year** | **Code**                                               | 
+| **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 | [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://aclanthology.org/2024.emnlp-main.645/) | EMNLP | 2024| [code](https://github.com/namednil/step)|
 |[SIP: Injecting a Structural Inductive Bias into a Seq2Seq Model by Simulation](https://aclanthology.org/2024.acl-long.355/) | ACL| 2024 | [code](https://github.com/namednil/sip)|
@@ -12,14 +12,17 @@
 |[Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)|Nature|2023|NA|
 
 # Psychometric
-| **Paper**                                                    | **Venue** | **Year** | **Code**                                               | 
+| **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 [Language Models Grow Less Humanlike beyond Phase Transition](https://arxiv.org/abs/2502.18802)|Preprint| 2025| NA|
 |[Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs](https://arxiv.org/abs/2309.07311)|ICLR|2024| NA|
+|[Language Models Grow Less Humanlike beyond Phase Transition](https://arxiv.org/abs/2502.18802)| Preprint| 2025| NA|
+|[Linear Recency Bias During Training Improves Transformers’ Fit to Reading Times](https://aclanthology.org/2025.coling-main.517/)| COLING| 2025|[code](https://github.com/christian-clark/recency-bias)|
+
 
 # Training
-| **Paper**                                                    | **Venue** | **Year** | **Code**                                               | 
+| **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 |[Forgetting Transformer: Softmax Attention with a Forget Gate](https://arxiv.org/abs/2503.02130)| ICLR| 2025| [code](https://github.com/zhixuan-lin/forgetting-transformer)|
+|[Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs](https://arxiv.org/abs/2309.07311) | ICLR| 2024| NA|
 
-# Inference
