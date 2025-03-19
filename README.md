@@ -1,4 +1,5 @@
-# human-like-bias
+# Introduction
+This repository lists papers on introducing inductive/symoblic/linguistic bias to neural network-based architectures to align better with human behavior in learning/acquisition and sentence processing. 
 
 # Generalization
 | **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
