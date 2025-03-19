@@ -1,7 +1,7 @@
 # Introduction
 This repository lists papers on incorporating inductive, symbolic, and linguistic biases into neural network-based architectures to better align with human behavior in language learning, generalization, targeted evaluation, and sentence processing.
 
-# Generalization
+# Learning & Generalization
 | **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 | [Strengthening Structural Inductive Biases by Pre-training to Perform Syntactic Transformations](https://aclanthology.org/2024.emnlp-main.645/) | EMNLP | 2024| [code](https://github.com/namednil/step)|
@@ -21,7 +21,7 @@ This repository lists papers on incorporating inductive, symbolic, and linguisti
 |[Linear Recency Bias During Training Improves Transformers’ Fit to Reading Times](https://aclanthology.org/2025.coling-main.517/)| COLING| 2025|[code](https://github.com/christian-clark/recency-bias)|
 
 
-# Training
+# Targeted Evaluation
 | **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 |[Forgetting Transformer: Softmax Attention with a Forget Gate](https://arxiv.org/abs/2503.02130)| ICLR| 2025| [code](https://github.com/zhixuan-lin/forgetting-transformer)|
