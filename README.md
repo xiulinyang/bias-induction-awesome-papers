@@ -8,6 +8,8 @@
 |[Injecting structural hints: Using language models to study inductive biases in language learning](https://aclanthology.org/2023.findings-emnlp.563/) | EMNLP findings | 2023| [code](https://github.com/toizzy/injecting-structural-hints)|
 |[Does Vision Accelerate Hierarchical Generalization in Neural Language Learners?](https://aclanthology.org/2025.coling-main.127/)|COLING| 2025|NA|
 |[Distilling symbolic priors for concept learning into neural networks](https://arxiv.org/abs/2402.07035)| Preprint | 2024| NA|
+|[Meta-learning as a bridge between neural networks and symbolic Bayesian models.](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/metalearning-as-a-bridge-between-neural-networks-and-symbolic-bayesian-models/185DB00366FD4F9B218E36F32886242F)|Behavioral and Brain Sciences| 2024 |[code](https://github.com/marcelbinz/meta-learned-models)|
+|[Human-like systematic generalization through a meta-learning neural network](https://www.nature.com/articles/s41586-023-06668-3)|Nature|2023|NA|
 
 # Psychometric
 | **Paper**                                                    | **Venue** | **Year** | **Code**                                               | 
