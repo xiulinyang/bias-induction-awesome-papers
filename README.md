@@ -1,5 +1,5 @@
 # Introduction
-This repository lists papers on introducing inductive/symoblic/linguistic bias to neural network-based architectures to align better with human behavior in learning/acquisition and sentence processing. 
+This repository lists papers on incorporating inductive, symbolic, and linguistic biases into neural network-based architectures to better align with human behavior in language learning, generalization, targeted evaluation, and sentence processing.
 
 # Generalization
 | **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
