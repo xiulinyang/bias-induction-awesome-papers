@@ -16,7 +16,10 @@
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 [Language Models Grow Less Humanlike beyond Phase Transition](https://arxiv.org/abs/2502.18802)|Preprint| 2025| NA|
 |[Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs](https://arxiv.org/abs/2309.07311)|ICLR|2024| NA|
-# Training
 
+# Training
+| **Paper**                                                    | **Venue** | **Year** | **Code**                                               | 
+| ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
+|[Forgetting Transformer: Softmax Attention with a Forget Gate](https://arxiv.org/abs/2503.02130)| ICLR| 2025| [code](https://github.com/zhixuan-lin/forgetting-transformer)|
 
 # Inference
