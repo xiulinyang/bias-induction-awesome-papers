@@ -28,3 +28,9 @@ This repository lists papers on incorporating inductive, symbolic, and linguisti
 |[Forgetting Transformer: Softmax Attention with a Forget Gate](https://arxiv.org/abs/2503.02130)| ICLR| 2025| [code](https://github.com/zhixuan-lin/forgetting-transformer)|
 |[Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs](https://arxiv.org/abs/2309.07311) | ICLR| 2024| NA|
 |[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536)|ICLR| 2019|[code](https://github.com/yikangshen/Ordered-Neurons)|
+
+
+# Others
+| **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               |
+| ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
+|[Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089) | ICLR| 2023| [code](https://github.com/mlfoundations/task_vectors)|
