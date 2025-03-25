@@ -29,7 +29,7 @@ This repository lists papers on incorporating inductive, symbolic, and linguisti
 |[Sudden Drops in the Loss: Syntax Acquisition, Phase Transitions, and Simplicity Bias in MLMs](https://arxiv.org/abs/2309.07311) | ICLR| 2024| NA|
 |[Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks](https://arxiv.org/abs/1810.09536)|ICLR| 2019|[code](https://github.com/yikangshen/Ordered-Neurons)|
 
-# Memorization
+# Memory
 | **Paper**                                                    | **Venue/Journal** | **Year** | **Code**                                               | 
 | ------------------------------------------------------------ | --------- | -------- | ------------------------------------------------------------ |
 |[The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization](https://arxiv.org/abs/2110.07732)|  ICLR |2022|[code](https://github.com/robertcsordas/ndr)|
